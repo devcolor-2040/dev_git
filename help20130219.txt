@@ -1,0 +1,43 @@
+http://10.9.10.15:38093/vertool/  --版本
+http://10.9.10.123:2000/main.do   --青铜器
+http://211.138.236.215/           --BSF
+http://10.9.10.239:81/            --内部itm
+payadm/ssji#904@CMPAY_SIT
+payopr/nny#21sy@CMPAY_UAT
+payview/pqpq#78n@CMPAY_UAT
+payadm/vse0#sf3
+paramadm/ara1234#  (UAT)
+paramadm/par#1234  (SIT)
+
+
+http://10.9.10.15:17001/ptcrsademosit/  --网厅缴话费测试
+http://10.9.10.15:17001/sit_ptc_mcgdemo02/  --缴话费接入演示内部测试版本(UAT测试环境)
+http://10.9.10.15:17001/sitmcgdemo02/index.jsp  --联机交易演示内部测试版本(测试环境)
+
+
+
+http://10.9.10.116/tlxy
+
+
+http://58.20.47.74:58080/himcgdemo_ptc_jsp/
+http://58.20.47.74:58080/hiptfdemo/
+http://58.20.47.74:58080/hiiposmMD5100862/
+http://58.20.47.74:58080/mulptcmd5demo/
+http://58.20.47.74:58080/zhengqipaydemo_ptc_jsp/
+http://58.20.47.74:58080/simpleJAVA2
+
+
+http://www.stuq.org/
+
+chrome://flags/
+启用 NPAPI Mac, Windows
+
+
+~/资源库/Mail/V2
+https://support.apple.com/kb/PH19174?viewlocale=zh_CN&locale=zh_CN
+
+
+pop.hisuntech.com
+smtp.hisuntech.com
+
+995
